@@ -1,8 +1,8 @@
 <img src="https://res.cloudinary.com/brainiac/image/upload/v1666826909/github-cover-resised_jcnl1i.png" height="300" width="1200"/>
 
 ### About Me
-<h4 align="left">Hi there, I'm Nsikak, a creative mobile and cloud developer from Nigeria. I love building user-friendly and reliable applications that solves users' problems and meets the needs of a business. I like to learn and work with new technologies and also explore new trends. I'm currently learning Node.Js and devops.
-We can have a chat about anything Flutter and Android related.</h4>
+<h5 align="left">Hi there. I'm Nsikak, a creative mobile and cloud developer from Nigeria. I love building user-friendly and reliable applications that solves users' problems and meets the needs of a business. I like to learn and work with new technologies and also explore new trends. I'm currently learning Node.Js and devops.
+We can have a chat about anything Flutter and Android related.</h5>
 
 
 <h3><p align="left">Connect with me</p></h3>
