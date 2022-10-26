@@ -2,7 +2,7 @@
 
 ### About Me
 <h4 align="left">Hi there, I'm Nsikak, a creative mobile and cloud developer from Nigeria. I love building user-friendly and reliable applications that solves users' problems and meets the needs of a business. I like to learn and work with new technologies and also explore new trends. I'm currently learning Node.Js and devops.
-We can have a chat about anything Flutter and Android related.</h3>
+We can have a chat about anything Flutter and Android related.</h4>
 
 
 <h3><p align="left">Connect with me</p></h3>
