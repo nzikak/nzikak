@@ -16,7 +16,7 @@ We can have a chat about anything Flutter and Android related.</h5>
 <a href="https://linkedin.com/in/nsikak" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://hashnode.com/@nsikak" target="_blank">
+<a href="https://hashnode.com/@nzikak" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
 </div>  
