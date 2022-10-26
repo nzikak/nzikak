@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/brainiac/image/upload/v1666826115/github-cover-resised_c5ozni.png)
+<img src="https://res.cloudinary.com/brainiac/image/upload/v1666826115/github-cover-resised_c5ozni.png" height="350" width="1200"/>
 
 ### About Me
 <h4 align="left">Hi there, I'm Nsikak, a creative mobile and cloud developer from Nigeria. I love building user-friendly and reliable applications that solves users' problems and meets the needs of a business. I like to learn and work with new technologies and also explore new trends. I'm currently learning Node.Js and devops. We can have a chat about anything Flutter and Android related.</h3>
@@ -28,5 +28,5 @@
 ### Github Stats
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nzikak&show_icons=true&locale=en&layout=compact" alt="nzikak" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nzikak&show_icons=true&locale=en" alt="nzikak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nzikak&show_icons=true&locale=en" width="450" alt="nzikak" /></p>
 </div>
